@@ -1,0 +1,20 @@
+.headerContainer p{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+}
+.headerContainer li{
+    display: flex;
+    list-style-type: none;
+}
+.headerContainer ul{
+    display: flex;
+    list-style-type: none;
+    margin-left: 70%;
+    margin:20px; 
+}
+/* Artisi i ka kry qeto detyraaa <3 */
+.logoAndCatalog{
+    display: flex;
+    align-items: flex-start;
+}
